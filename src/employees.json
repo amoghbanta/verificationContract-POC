@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Divyani Singh",
+    "picture": "images/divyani.jpg",
+    "experience": 1,
+    "manager": "Viru Sahastra Budddhy",
+    "department": "Engineering"
+  },
+  {
+    "id": 1,
+    "name": "Anshul",
+    "picture": "images/anshul.jpg",
+    "experience": 3,
+    "manager": "Parminder Singh",
+    "department": "Engineering"
+  },
+  {
+    "id": 2,
+    "name": "Amogh Banta",
+    "picture": "images/amogh.jpg",
+    "experience": 2,
+    "manager": "Manages Everyone",
+    "department": "Management"
+  },
+  {
+    "id": 3,
+    "name": "Soumil",
+    "picture": "images/nxtgen.jpg",
+    "experience": 2,
+    "manager": "Anshul Saxena",
+    "department": "Engineering"
+  },
+  {
+    "id": 4,
+    "name": "Abhishek Nanda",
+    "picture": "images/placeholder.png",
+    "experience": 2,
+    "manager": "Amogh Banta",
+    "department": "Engineering"
+  },
+  {
+    "id": 5,
+    "name": "Sarthak Khandelwal",
+    "picture": "images/placeholder.png",
+    "experience": 3,
+    "manager": "Amogh Banta",
+    "department": "Engineering"
+  },
+  {
+    "id": 6,
+    "name": "Akshay",
+    "picture": "images/nxtgen.jpg",
+    "experience": 3,
+    "manager": "Divyani Singh",
+    "department": "Management"
+  },
+  {
+    "id": 7,
+    "name": "Sahil",
+    "picture": "images/nxtgen.jpg",
+    "experience": 3,
+    "manager": "Divyani Singh",
+    "department": "Engineering"
+  },
+  {
+    "id": 8,
+    "name": "Parminder",
+    "picture": "images/placeholder.png",
+    "experience": 2,
+    "manager": "Amogh Banta",
+    "department": "Management"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/nxtgen.jpg",
+    "experience": 3,
+    "manager": "Boxer",
+    "department": "Management"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/nxtgen.jpg",
+    "experience": 2,
+    "manager": "Boxer",
+    "department": "Management"
+  },
+  {
+    "id": 11,
+    "name": "Divyani Kapoor",
+    "picture": "images/nxtgen.jpg",
+    "experience": 3,
+    "manager": "Divyani Singh",
+    "department": "Engineering"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/placeholder.png",
+    "experience": 3,
+    "manager": "Amogh Banta",
+    "department": "Management"
+  },
+  {
+    "id": 13,
+    "name": "Raju Srivastava",
+    "picture": "images/nxtgen.jpg",
+    "experience": 4,
+    "manager": "Divyani Singh",
+    "department": "Engineering"
+  },
+  {
+    "id": 14,
+    "name": "Rahul Sharma",
+    "picture": "images/nxtgen.jpg",
+    "experience": 2,
+    "manager": "Divyani Singh",
+    "department": "Engineering"
+  },
+  {
+    "id": 15,
+    "name": "Bla Bla Bla",
+    "picture": "images/nxtgen.jpg",
+    "experience": 2,
+    "manager": "Divyani Singh",
+    "department": "Engineering"
+  }
+]
